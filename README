@@ -1,5 +1,14 @@
 CCnet Hollywood status (Don't call us we'll call you)
 
-A command line and a wpf version.
+This is meant as an alternative to cctray - which pops up and interupts.
+This one you start yourself from your favorite application launcher, when you want the status from ccnet.
+
+
+Two versions exists:
+- A command line 
+- A wpf version.
+
+The WPF version needs STA when not run in powershell ISE - thats what the .cmd file does.
+
 
 Remember to edit the build-servers before running
