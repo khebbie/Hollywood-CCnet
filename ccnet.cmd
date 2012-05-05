@@ -1,2 +1,2 @@
-powershell c:\users\khebsgaard\desktop\ccnet.ps1
+powershell ./ccnet.ps1
 Pause

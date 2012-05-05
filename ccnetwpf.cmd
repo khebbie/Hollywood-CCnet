@@ -1,2 +1,2 @@
-powershell -windowstyle Hidden -sta c:\users\khebsgaard\desktop\ccnetwpf.ps1
+powershell -windowstyle Hidden -sta ./ccnetwpf.ps1
 Pause
