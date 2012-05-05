@@ -12,3 +12,4 @@ The WPF version needs STA when not run in powershell ISE - thats what the .cmd f
 
 
 Remember to edit the build-servers before running
+Also edit the cmd files according to where they are placed... (yeah I know they should be relative)
